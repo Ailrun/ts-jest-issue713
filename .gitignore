@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# built distribution
+dist/
+
+# istanbul
+coverage/
+
+# Dependency directories
+node_modules/
