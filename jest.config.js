@@ -1,4 +1,7 @@
 module.exports = {
+  collectCoverageFrom: [
+    'src/**/*.{js,jsx,ts,tsx}',
+  ],
   errorOnDeprecated: true,
   globals: {
     'ts-jest': {
